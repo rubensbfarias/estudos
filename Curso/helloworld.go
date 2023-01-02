@@ -1,7 +1,7 @@
-package Curso
+package main
 
 import "fmt"
 
-func Curso() {
+func main() {
 	fmt.Println("Hello, World!")
 }
