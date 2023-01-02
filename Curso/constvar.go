@@ -1,11 +1,11 @@
-package Curso
+package main
 
 import (
 	"fmt"
 	"math"
 )
 
-func Curso() {
+func main() {
 	const PI float64 = 3.1415
 	var raio = 3.2 // tip float inferido pelo compilador
 
