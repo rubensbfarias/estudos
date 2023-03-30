@@ -1,2 +1,2 @@
-# estudos.go
-Evolução do meu aprendizado em golang
+# estudos.geral
+Todos os meus testes e aprendizados
